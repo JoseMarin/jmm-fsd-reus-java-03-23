@@ -1,1 +1,1 @@
-# jmm-fsd-reus-java-03-23
+# Ejemplo de proyecto java
